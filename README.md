@@ -12,3 +12,4 @@ This repository contains my LeetCode solutions.
 - Trees
 - Graphs
 - Dynamic Programming
+- Stacks
